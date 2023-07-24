@@ -86,3 +86,51 @@ Hyperlinks are created using  a (anchor) tag, which contains the URL of the link
 The alt attribute is used to provide a text description of an image for users who are unable in to see the image, such as those who use screen readers.
 </details>
 <br>
+
+`DAY 3`
+
+<details>
+<summary>
+1 - What are void elements in HTML?
+</summary>
+Void elements are those elements in HTML which do not have closing tag or do not need to be closed. Example: br img < /> inside this.
+</details>
+<br>
+
+<details>
+<summary>
+2 - Can we display web page inside a webpage or is nesting of webpage possible?
+</summary>
+Yes, we can display a web page inside another HTML web page. HTML provides iframe <> tag using which we can achieve this functionality.
+</details>
+<br>
+
+<details>
+<summary>
+3 - What is the difference between link<> tag and a<> tag?
+</summary>
+The anchor tag a<> is used to create a hyperlink to another web page or to a certain part of a web page and these links are clickable, whereas, link tag link<> defines a link between a document and external resource and these are not clickable.
+</details>
+<br>
+
+<details>
+<summary>
+4 - What are some of the advantages of HTML5 over its previous versions?
+</summary>
+Some advantages of HTML5 are:
+
+1 = It has multi media support
+<br>
+2 = Improved performance (faster loading)
+<br>
+3 = Better accessibility
+</details>
+<br>
+
+<details>
+<summary>
+5 - What is the canvas element in HTML5?
+</summary>
+The canvas<> element is a container that is used to draw graphics on the web page using scripting language like javascript.
+</details>
+<br>
